@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a44fac6d6c379db4bb5aac3c817164df
+  - enabled: 1
+    path: Assets/Scenes/Othello-local.unity
+    guid: 6e734db684d98704e9b4a640d534fe3a
+  - enabled: 1
+    path: Assets/GoogleARCore/Examples/CloudAnchors/Scenes/CloudAnchors.unity
+    guid: 83fb41cc294e74bdea57537befa00ffc
+  - enabled: 0
+    path: Assets/Scenes/Othello-multi.unity
+    guid: c1e54992f7dfacb4190f1f4c1affeced
+  - enabled: 0
+    path: Assets/Scenes/Othello.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects: {}
